@@ -1,0 +1,22 @@
+{
+  "name": "Steel Cities 2022 - Event 10",
+  "description": "Steel Cities 2022 - Event 10",
+  "tags": [
+    "autocross",
+    "nationals"
+  ],
+  "geotags": [
+    "lat",
+    "lon"
+  ],
+  "country": "USA",
+  "city": "Lincoln",
+  "length": "1000m",
+  "width": "15m",
+  "pitboxes": "2",
+  "run": "",
+  "author": "Mike Ferchak",
+  "version": "2023.02.04",
+  "year": 2022,
+  "url": null
+}
